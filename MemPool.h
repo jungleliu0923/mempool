@@ -20,6 +20,7 @@
 #ifndef  __MEMPOOL_H_
 #define  __MEMPOOL_H_
 
+#include <cstdio>
 #include <vector>
 #include <string>
 using namespace std;
